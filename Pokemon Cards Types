@@ -1,0 +1,2073 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<types>
+		<type name="MB_PokemonCards_abra">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_alakazam">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_articuno">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+		</type>
+	<type name="MB_PokemonCards_beedrill">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_bill">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_bulbasaur">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_butterfree">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_caterpie">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_potion">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_charmander">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_charmeleon">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_charizard">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_darkblastoise">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_darkdragonair">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_darkdragonite">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_darkpersian">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_darkraichu">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_darkslowbro">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_dodrio">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_doduo">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_dratini">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_drowzee">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_eevee">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_electrode">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_golem">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_darkvaporeon">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_darkwartortle">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_dewgong">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_exeggutor">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_fearow">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_flareon">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_gengar">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_geodude">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_golduck">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_graveler">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_exeggcute">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_gastly">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_haunter">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_hypno">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_ivysaur">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_grimer">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_growlithe">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_gyarados">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_hitmonlee">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_jolteon">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_kabutops">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_kadabra">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_jynx">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_kabuto">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_kakuna">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_machamp">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_machoke">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_machop">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_magikarp">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_magneton">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_magnemite">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_mankey">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_mewtwo">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_moltres">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_muk">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_nidoking">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_meowth">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_metapod">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_nidoqueen">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_nidoran">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_nidorina">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_ninetales">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_omanyte">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_omastar">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_onix">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_pidgeot">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_nidorino">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_pidgey">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_pidgeotto">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_pikachu">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_ponyta">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_primeape">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_psyduck">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_rapidash">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_raticate">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_rattata">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_rhydon">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_rhyhorn">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_sandshrew">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_sandslash">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_seadra">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_tentacool">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_tentacruel">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_squirtle">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_tauros">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_slowpoke">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_snorlax">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_spearow">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_venusaur">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_voltorb">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_weedle">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_zapdos">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_mysterious">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_energyretrieval">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_vulpix">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_challenge">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_thebossway">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_fullhealenergy">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_seel">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_pokemonbreeder">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_arcanine">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_pokemontrader">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_scoopup">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PokemonCards_potionenergy">
+		<nominal>1</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
