@@ -1,4 +1,5 @@
-	</type>	
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<types>	
 		<type name="MB_ArcadeMachine_Kit">
 		<nominal>2</nominal>
 		<lifetime>2700</lifetime>
