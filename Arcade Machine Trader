@@ -1,0 +1,5 @@
+	<Category> Arcade Machine
+		MB_ArcadeMachine_Kit,		*,		-1,		5000
+		MB_ArcadeMachine_Space_Kit,		*,		-1,		5000
+		MB_ArcadeMachine_Hod_Kit,		*,		-1,		5000
+		MB_ArcadeMachine_PacMan_Kit,		*,		-1,		5000
