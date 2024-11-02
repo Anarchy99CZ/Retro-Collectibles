@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<types>
+		<type name="MB_Rubix">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_PoolBall">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_NesControl">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+		</type>
+	<type name="MB_Bopit">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_Nokia3310">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_NokiaHammer">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_Tamagotchi">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_LegoHead">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="mb_DarkHelmet">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="mb_WalterWhite">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="mb_BoyLegoHead">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="mb_GirlLegoHead">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="mb_SkeleLegoHead">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="mb_ZombieLegoHead">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="mb_BeardLegoHead">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="mb_SerpzLegoHead">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_Sonic2">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_ComixZone">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_ContraHardCorps">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_EarthWormJim">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_Ecco">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_EternalChampions">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_KidChameleon">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_LightningForce">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_MegaMan">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_MoonWalker">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_MortalKombat">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_MortalKombat2">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_MortalKombat3">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_MutantLeagueFootball">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_NBAJam">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_PhantasyStariv">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_RobocopvsTerminator">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_ShiningForce2">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_ShadowRun">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_Shinobi3">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_Sonic3">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_SonicTheHedgehog">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_SpaceHarrer2">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_SplatterHouse3">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_StreetFighter2">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_StreetsOfRage2">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_Strider">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_ToeJamAndEarl">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_TurtlesHyper">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_UltMortalKombat3">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_Vectorman">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_WonderBoyInMonsterWorld">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_ZombiesAteMyNeighbors">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_sonic1">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_GoldenAxe3">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_MetalGearSolid">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_ResidentEvil">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_AlexKidd">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_alisiadragon">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_alteredbeast">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_beyondoasis">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_castlevaniabloodlines">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_columns">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_goldenaxe">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_gunstarheroes">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MegaDriveCartridge_mickeymousecstle">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_NesCartridge_abadox">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_NesCartridge_dragonspirit">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_NesCartridge_marblemadness">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_NesCartridge_mario2">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_NesCartridge_metalgear">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_NesCartridge_turtlesarcade">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_NesCartridge_punchout">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_NesCartridge_ducktales">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_GengarPlush">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_BulbasaurPlush">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
+		<type name="MB_MewPlush">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Military" />
+		<usage name="Medic" />
+		<usage name="Hunting" />
+		<usage name="Coast" />
+		<tag name="floor" />
+	</type>
